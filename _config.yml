@@ -1,3 +1,9 @@
+auto: true
+lsi: false
+safe: true
+markdown: rdiscount
+pygments: true
+
 # Site settings
 title: test blog
 #email: jan.vejsada@seznam.cz
@@ -12,11 +18,4 @@ github_username:  vejsada
 
 # Build settings
 # markdown: kramdown
-highlighter: pygments
-
-github: [Repository metadata]
-
-safe: true
-lsi: false
-source: blog/
-
+# highlighter: pygments
