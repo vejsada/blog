@@ -1,8 +1,5 @@
-auto: true
-lsi: false
-safe: true
-markdown: rdiscount
-pygments: true
+highlighter: pygments
+github: [Repository metadata]
 
 # Site settings
 title: test blog
